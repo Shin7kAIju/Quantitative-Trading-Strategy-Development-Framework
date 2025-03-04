@@ -1,3 +1,4 @@
+![kaijucapital](https://github.com/user-attachments/assets/aa312aea-d863-4690-9040-1bb89242f584)
 
 
 ## Quantitative Trading Strategy Development Framework
